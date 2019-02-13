@@ -1,0 +1,9 @@
+We are learnig GIt
+
+
+We have done our first commit in local repository .
+
+
+We have learn alot about git and git hum
+
+Now we can use git. 
