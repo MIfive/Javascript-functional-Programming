@@ -32,7 +32,7 @@ a();
 
 // New example
 
-function gretings(msg){
+function greetings(msg){
     return function(name){
         console.log(msg+' ' +name);
     }
@@ -49,7 +49,7 @@ function gretings(msg){
 
 // method of calling return function 2.
 
-gretings('Hello')('World!');
+greetings('Hello')('World!');
 
 
 
