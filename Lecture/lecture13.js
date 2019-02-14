@@ -23,3 +23,9 @@ var result = arr.reduce(function(a,b){
 console.log(result);
 
 
+
+
+
+
+
+
